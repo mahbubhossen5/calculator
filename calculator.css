@@ -1,0 +1,14 @@
+.display {
+    background-color: aquamarine;
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+
+/* .container {
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+} */
